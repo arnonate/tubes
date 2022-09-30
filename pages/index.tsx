@@ -12,7 +12,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <header style={{ padding: "20rem 0", textAlign: "center" }}>
+      <header className={styles.header}>
         {/* <Image
           src="/logo.svg"
           alt="Tubes Bike Shop in St. Joseph, MO"

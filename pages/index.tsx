@@ -29,7 +29,7 @@ const Home: NextPage = () => {
         <p>Coming soon... 🍻</p>
       </header>
 
-      <main className={styles.main}></main>
+      {/* <main className={styles.main}></main> */}
 
       <footer className={styles.footer}>
         <p>

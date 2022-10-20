@@ -61,7 +61,7 @@ const Home: NextPage = () => {
                 1826 Frederick Ave St. Joseph, MO 64501
               </a>
             </p>
-            <p>816-261-6701</p>
+            <p>816-205-7934</p>
 
             <h2>Services:</h2>
             <p>

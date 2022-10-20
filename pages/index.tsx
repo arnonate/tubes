@@ -98,7 +98,6 @@ const Home: NextPage = () => {
               <li>Helmets</li>
               <li>Shoes</li>
               <li>Bike Racks</li>
-              <li></li>
             </ul>
             <h2>Tools Bar and Lounge:</h2>
             <ul>

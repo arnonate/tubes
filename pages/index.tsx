@@ -63,6 +63,13 @@ const Home: NextPage = () => {
             </p>
             <p>816-205-7934</p>
 
+            <p>
+              <b>Hours:</b>
+            </p>
+            <p>10 - 6 Tues - Sat</p>
+            <p>Closed Sun/Mon</p>
+            <p>Follow us on Instagram and Facebook for special event hours!</p>
+
             <h2>Services:</h2>
             <p>
               We offer a full-service shop with the ability to repair most major
